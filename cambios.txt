@@ -2,3 +2,6 @@ empieza desarrollo
 develop #1
 develop #2
 develop #3
+undo #1
+undo #2
+undo #3
