@@ -5,3 +5,5 @@ develop #3
 undo #1
 undo #2
 undo #3
+resize #1
+resize #2
