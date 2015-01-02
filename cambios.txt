@@ -2,3 +2,4 @@ empieza desarrollo
 develop #1
 develop #2
 pintar-area #1
+pintar-area #2
